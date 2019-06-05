@@ -26,5 +26,5 @@ flutter:
     pluginClass: CameraPlugin
 
 environment:
-  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
   flutter: ">=1.2.0 <2.0.0"
